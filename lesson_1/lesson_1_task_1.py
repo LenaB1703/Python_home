@@ -1,1 +1,6 @@
-print("Hello, World!")
+#Создание переменной
+my_name = "Елена"
+
+print(my_name)
+
+
