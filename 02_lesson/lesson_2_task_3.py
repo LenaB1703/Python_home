@@ -1,9 +1,7 @@
 #площадь квадрата
-from math import ceil
-
 def square(a):
-    s = a ** 2
-    return s
+    from math import ceil
+    return ceil(a ** 2)
 
 a = float(input("Длина стороны квадрата: "))
 result = square(a)
