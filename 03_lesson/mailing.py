@@ -1,0 +1,3 @@
+class Mailing:
+
+    def
